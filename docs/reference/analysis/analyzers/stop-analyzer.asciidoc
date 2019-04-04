@@ -136,7 +136,7 @@ The default English stopwords used in Elasticsearch are:
 To set the default stopwords list for a particular language, use the
 _lang_ notation:
 
-[source,json]
+[source,js]
 ---------------------------------
 "stopwords": "_french_"
 ---------------------------------
